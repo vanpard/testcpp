@@ -4,6 +4,6 @@
 
 #include <cstdio>
 int main(){
-    printf("hello");
+    printf("h10ello");
     return 0;
 }
