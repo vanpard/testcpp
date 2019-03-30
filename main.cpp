@@ -4,6 +4,6 @@
 
 #include <cstdio>
 int main(){
-    printf("h10ello");
+    printf("h10啊实打实大苏打ello");
     return 0;
 }
